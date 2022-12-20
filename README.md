@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samuelifeoluwa540@gmail.com**
 
-- ⚡ Fun fact **I'm VAST.**
+- ⚡ Fun fact **IF YOU ARE CLOSE TO ME, YOU WILL KNOW ME.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
