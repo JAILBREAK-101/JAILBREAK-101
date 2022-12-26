@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Javascript Projects**
 
-- 🌱 I’m currently learning **Javascript (Apis and OOP)**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **Web and Software Application Projects**
 
