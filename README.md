@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript Projects**
+- 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Web and Software Application Projects**
+- 👯 I’m looking to collaborate on **WebSite, Web Application and Software Application Projects using Javascript and other Prog Languages such as Python.**
 
-- 💬 Ask me about **HTML, CSS and Javascript**
+- 💬 Ask me about **HTML, CSS and Javascript and React Js**
 
 - 📫 How to reach me **samuelifeoluwa540@gmail.com**
 
