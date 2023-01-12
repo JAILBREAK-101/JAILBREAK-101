@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **JavaScript and React Projects**
 
 - 🌱 I’m currently learning **React Js**
 
@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **samuelifeoluwa540@gmail.com**
 
-- ⚡ Fun fact **I dey laugh tire.**
+- ⚡ Fun fact **I Laugh a lot.**
+
+<p>A link to my Projects <a href = ''></a</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
