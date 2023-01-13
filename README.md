@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **WebSite, Web Application and Mobile Application Projects using Javascript and Python.**
+- 👯 I’m looking to collaborate on **WebSite, Web Application and Mobile Application Projects using JavaScript and React-JS Library*
 
 - 💬 Ask me about **HTML, CSS and Javascript and React Js**
 
