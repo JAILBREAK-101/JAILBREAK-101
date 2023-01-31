@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oluwagbemiga</h1>
-<h3 align="center">A FrontEnd Web Developer that just loves what he does.</h3>
+<h2>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&weight=600&size=25&duration=4000&pause=5000&color=F71802&width=435&lines=Front-End+Web+Developer;React+Developer;Python+Developer)](https://git.io/typing-svg)</h2>
+<!-- <h3 align="center">A FrontEnd Web Developer that just loves what he does.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
