@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript and React Projects** and also making commits
+- 🔭 I’m currently working on **JavaScript, TypeScript and React Projects** and also making commits
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **WebSite, Web Application and Mobile Application Projects using JavaScript and React-JS Library**
+- 👯 I’m looking to collaborate on **WebSite, Web Application and Mobile Application Projects using TypeScript and React-JS Library**
 - I'm also looking to collaborate on large, medium, and small scale projects regarding **FrontEnd Development**, and **Mobile Development**.
 
-- 💬 Ask me about **HTML, CSS and Javascript, ReactJs, and all that it is to Front-end web-dev**
+- 💬 Ask me about **HTML, CSS and Javascript, TypeScript ReactJs, and all that it is to Front-end web-dev**
 
 - 📫 How to reach me **samuelifeoluwa540@gmail.com**
 
