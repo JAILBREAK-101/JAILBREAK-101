@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **React Js**
 
 - 👯 I’m looking to collaborate on **WebSite, Web Application and Mobile Application Projects using TypeScript and React-JS Library**
-- I'm also looking to collaborate on large, medium, and small scale projects regarding **FrontEnd Development**, and **Mobile Development**.
+- 🔥 I'm also looking to collaborate on large, medium, and small scale projects regarding **FrontEnd Development**, and **Mobile Development**.
 
 - 💬 Ask me about **HTML, CSS and Javascript, TypeScript ReactJs, and all that it is to Front-end web-dev**
 
