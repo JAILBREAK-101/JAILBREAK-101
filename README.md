@@ -18,7 +18,7 @@
 
 - 📫 Hit me up at **samuelifeoluwa540@gmail.com**
 
-- Check out my [Linkedin Account](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>) 
+- Check out my [Linkedin Account][<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>] 
 
 - ⚡ Fun fact **I Laugh a lot.**
 
