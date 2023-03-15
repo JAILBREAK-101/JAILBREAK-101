@@ -11,12 +11,14 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **WebSite, Web Application and Mobile Application Projects using JavaScript and React-JS Library**
-- 🔥 I'm also looking to collaborate on large, medium, and small scale projects regarding **FrontEnd Development**, and **Mobile Development**.
+- 👯 I’m looking to collaborate on **Open Source and Web Dev** projects
+- 🔥 I'm also looking to collaborate on **Mobile Development** projects.
 
 - 💬 Ask me about **HTML, CSS and Javascript, TypeScript, ReactJs, and all that it is to Front-end web-dev**
 
-- 📫 How to reach me **samuelifeoluwa540@gmail.com**
+- 📫 Hit me up at **samuelifeoluwa540@gmail.com**
+
+- Check out my [Linkedin Account](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>) 
 
 - ⚡ Fun fact **I Laugh a lot.**
 
