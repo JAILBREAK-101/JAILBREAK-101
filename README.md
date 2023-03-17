@@ -17,9 +17,8 @@
 - 💬 Ask me about **HTML, CSS and Javascript, TypeScript, ReactJs, and all that it is to Front-end web-dev**
 
 - 📫 Hit me up at **samuelifeoluwa540@gmail.com**
-
-- ![LinkedinGIF (2)](https://user-images.githubusercontent.com/100247352/225169649-b855be37-7c99-4cfa-bbd7-a9a6c4d4c0bd.gif)
-Check out my [Linkedin Account](www.linkedin.com/in/genix-jailbreak)
+- 
+Check out my **[Linkedin Account](www.linkedin.com/in/genix-jailbreak)**
 
 - ⚡ Fun fact **I Laugh a lot.**
 
