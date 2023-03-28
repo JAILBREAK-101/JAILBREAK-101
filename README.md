@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **JavaScript and React Projects** and also making commits
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Sass and React Js**
 
 - 👯 I’m looking to collaborate on **Open Source and Web Dev** projects
 - 🔥 I'm also looking to collaborate on **Mobile Development** projects.
