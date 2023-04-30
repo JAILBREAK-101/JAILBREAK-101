@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oluwagbemiga</h1>
 <h3 align="center">A FrontEnd Web Developer that just loves what he does.</h3>
 
-<h4 align = "center">On YouTube as[Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)</h4>
+<span style = "font-size: 20px" align = "center">On YouTube as</span> [Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **ReactJs and Node.Js Projects** and also making commits
 
 - <img src="https://user-images.githubusercontent.com/100247352/235330471-7dd9ae6d-6c02-4d39-a90b-edc358f6dd8b.gif" height = 30 alt = "YouTube Gif" />
-  I'm on YouTube @[Genix-Js](https://www.youtube.com/@Genix-Js)
+  I'm on YouTube @ [Genix-Js](https://www.youtube.com/@Genix-Js)
 
 - 🌱 I’m currently learning **Sass, Node.Js and React Js**
 
