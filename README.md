@@ -9,12 +9,14 @@ On YouTube as[Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript and React Projects** and also making commits
+- 🔭 I’m currently working on **ReactJs and Node.Js Projects** and also making commits
 
-- 🌱 I’m currently learning **Sass and React Js**
+- ![YoutubeSubscribeGIF](https://user-images.githubusercontent.com/100247352/235330471-7dd9ae6d-6c02-4d39-a90b-edc358f6dd8b.gif)
+  I'm on YouTube @ [Genix-Js](https://www.youtube.com/@Genix-Js)
 
-- 👯 I’m looking to collaborate on **Open Source and Web Dev** projects
-- 🔥 I'm also looking to collaborate on **Mobile Development** projects.
+- 🌱 I’m currently learning **Sass, Node.Js and React Js**
+
+- 👯 I’m looking to collaborate on **Open Source, Mobile and Web Dev** projects, as well as **hone** my skills in Web Development
 
 - 💬 Ask me about **HTML, CSS and Javascript, TypeScript, ReactJs, and all that it is to Front-end web-dev**
 
@@ -35,7 +37,7 @@ On YouTube as[Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--  HTML, CSS, JAVASCRIPT, REACT JS, BOOTSTRAP, SASS, BABEL, GIT, PYTHON, ADOBE ILLUSTRATOR.    -->
-<!--  MORE TO COME: NODE.JS, EXPRESS.JS, TYPESCRIPT, PYTHON, FLUTTER, DART, JAVA, PHP, UI/UX, FIGMA, ILLUSTRATOR, CORELDRAW, XDESIGN, BLOCKCHAIN, DEVOPS.  -->
+<!--  MORE TO COME: NODE.JS, EXPRESS.JS, TYPESCRIPT, REACT NATIVE, MONGO-DB PYTHON, FLUTTER, DART, JAVA, PHP, UI/UX, FIGMA, ILLUSTRATOR, CORELDRAW, XDESIGN, BLOCKCHAIN, DEVOPS.  -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
