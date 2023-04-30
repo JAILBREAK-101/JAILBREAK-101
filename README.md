@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oluwagbemiga</h1>
 <h3 align="center">A FrontEnd Web Developer that just loves what he does.</h3>
 
+<h4 align = "center">On YouTube as </h4>(Genix-Js)[https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w]
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jailbreak-101" alt="jailbreak-101" /></a> </p> -->
