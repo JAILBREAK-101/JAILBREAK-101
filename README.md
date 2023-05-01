@@ -10,7 +10,7 @@
 
 - <img src="https://user-images.githubusercontent.com/100247352/235330471-7dd9ae6d-6c02-4d39-a90b-edc358f6dd8b.gif" height = 30 alt = "YouTube Gif" /> I'm on YouTube @ [Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
-- 🔭 I’m currently working on **ReactJs and Node.Js Projects** and also making commits
+- 🔭 I’m currently working on **ReactJs Projects** and also making commits
 
 - 🌱 I’m currently learning **Sass, Node.Js and React Js**
 
