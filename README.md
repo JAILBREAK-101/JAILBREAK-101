@@ -1,6 +1,7 @@
 <h1 align="center">Hello, thanks for stopping by. I'm Oluwagbemiga! 🔥</h1>
-<h3 align="center">A Web Developer that loves creating solutions to problems using </code>.</h3>
- <img src="https://user-images.githubusercontent.com/100247352/235330471-7dd9ae6d-6c02-4d39-a90b-edc358f6dd8b.gif" height = 30 alt = "YouTube Gif" /> I'm on YouTube @ [Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
+<h3 align="center">A Web Developer that loves creating solutions to problems using <code>Code</code>.</h3>
+
+I'm on YouTube @ [Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
@@ -106,4 +107,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jailbreak-101&show_icons=true&locale=en&layout=compact" alt="jailbreak-101" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jailbreak-101&" alt="jailbreak-101" /></p> --> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jailbreak-101&" alt="jailbreak-101" /></p> --> 
