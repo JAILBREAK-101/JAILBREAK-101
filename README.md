@@ -1,5 +1,5 @@
 <h1 align="center">Hello, thanks for stopping by. I'm Oluwagbemiga! 🔥</h1>
-<h3 align="center">A Web Developer that loves creating solutions to problems using <code>Code</code>.</h3>
+<h3 align="center">A Front-End Web Developer that loves creating solutions to problems using <code>Code</code>.</h3>
 
 I'm on YouTube @ [**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
