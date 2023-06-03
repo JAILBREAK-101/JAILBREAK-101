@@ -15,7 +15,7 @@ I'm on YouTube @ [**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0
 
 - 👯 I’m looking to collaborate on **Web and mobile development projects**
 
-- 🤝 I’m looking for help with **knowing how to priotize my tasks alongside my projects - It'll help**
+- 🤝 I’m looking for help with **collaborate on open source projects**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React and Sass**
 
