@@ -1,5 +1,5 @@
-<h1 align="center">Hello, thanks for stopping by. I'm Oluwagbemiga! 🔥</h1>
-<h3 align="center">A Front-End Web Developer that loves creating solutions to problems using <code>Code</code>.</h3>
+<h1 align="center">It's Oluwagbemiga</h1>
+<h3 align="center">A Developer that creates solutions to problems using <code>Code</code>.</h3>
 
 I'm on YouTube @ [**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
@@ -9,19 +9,15 @@ I'm on YouTube @ [**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
 
-- 🔭 I’m currently working on **Web dev Projects**
+- 🔭 I’m currently working on **Mini Projects and problem solutions**
 
-- 🌱 I’m currently learning **React.Js and Node.Js** as a Junior Dev.
+- 🌱 I’m currently digging **React.Js, TypeScript and Node.Js**.
 
 - 👯 I’m looking to collaborate on **Web and mobile development projects**
 
-- 🤝 I’m looking for help with **priortizing my tasks alongside projects**
+- 📫 How to reach me **oluwagbemiga.awosope123@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React and Sass**
-
-- 📫 How to reach me **samuelifeoluwa540@gmail.com**
-
-- ⚡ Fun fact **I love to master something to become a master of it😁**
+- ⚡ Fun fact **I create innovative solutions**
 
 - Check out my [Linkedin Account](www.linkedin.com/in/genix-jailbreak)
 
