@@ -11,7 +11,7 @@ I'm on YouTube @ [**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0
 
 - 🔭 I’m currently working on **Web dev Projects**
 
-- 🌱 I’m currently learning **React.Js and Node.Js**
+- 🌱 I’m currently learning **React.Js and Node.Js** as a Junior Dev.
 
 - 👯 I’m looking to collaborate on **Web and mobile development projects**
 
