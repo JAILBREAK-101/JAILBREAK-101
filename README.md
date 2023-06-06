@@ -1,5 +1,5 @@
 <h1 align="center">It's Oluwagbemiga - Front-End Dev</h1>
-<h3 align="center">A Developer that creates solutions to problems using <code>Code</code>.</h3>
+<h3 align="center">A Creative Developer that creates solutions to problems using <code>Code</code>.</h3>
 
 I'm on YouTube @ [**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
