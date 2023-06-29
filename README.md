@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Oluwagbemiga Awosope.</h1>h1>
+<h1 align="center">Hi, I'm Oluwagbemiga Awosope.</h1>
 <h2>Frontend Developer and Aspiring Graphics Designer</h2>
 
-# 💫 About Me:
 🔭 I’m currently working on Portfolio projects<br><br>🌱 I’m currently learning React.Js, AngularJs, and Node.Js.<br><br>👯 I’m looking to collaborate on Open Source and web projects<br><br>📫 How to reach me oluwagbemiga.awosope123@gmail.com
 
 
