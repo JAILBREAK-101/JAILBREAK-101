@@ -20,6 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=JAILBREAK-101&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 -->
 
+<!--
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=GenixTech)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
@@ -38,8 +39,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="center">Hi 👋, I'm Oluwagbemiga</h1>
-<h3 align="center">A FrontEnd Web Developer that just loves what he does.</h3>
-<h4> <span align="center" style = "font-size: 20px" > On YouTube as</span> [Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w) </h4>
+<h3 align="center">A Front-end Web Developer that just loves what he does.</h3>
+<span align="center" style = "font-size: '20px'">On YouTube as</span>[Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
@@ -49,13 +50,13 @@
 
 - <img src="https://user-images.githubusercontent.com/100247352/235330471-7dd9ae6d-6c02-4d39-a90b-edc358f6dd8b.gif" height = 30 alt = "YouTube Gif" /> I'm on YouTube @ [Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
-- 🔭 I’m currently working on **ReactJs Projects** and also making commits
+- 🔭 I’m currently working on **Portfolio Projects** and also making commits
 
-- 🌱 I’m currently learning **Sass, Node.Js and React Js**
+- 🌱 I’m currently learning **Node.Js and React Js**
 
 - 👯 I’m looking to collaborate on **Open Source, Mobile and Web Dev** projects, as well as **hone** my skills in Web Development
 
-- 💬 Ask me about **HTML, CSS and Javascript, TypeScript, ReactJs, and all that it is to Front-end web-dev**
+- 💬 Ask me about **HTML, CSS, and Javascript, TypeScript, ReactJs, and all that it is to Front-end web-dev**
 
 - 📫 Hit me up at **samuelifeoluwa540@gmail.com**
 
