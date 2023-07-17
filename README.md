@@ -41,7 +41,7 @@
 <h1 align="center">Hi 👋, I'm Oluwagbemiga</h1>
 <h3 align="center">A Front-end Web Developer that just loves what he does.</h3>
 
-<span align="center" style = "font-size: '20px'">On YouTube as </span>[Genix-Js](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
+<span align="center" style = "font-size: '20px'">On YouTube as </span>[**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
