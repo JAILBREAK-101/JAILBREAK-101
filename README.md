@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
-🔭 I’m currently working on Portfolio projects<br><br>🌱 I’m currently learning React.Js, AngularJs, and Node.Js.<br><br>👯 I’m looking to collaborate on Open Source and web projects<br><br>📫 How to reach me oluwagbemiga.awosope123@gmail.com
+🔭 I’m currently working on Portfolio projects<br><br>🌱 I’m currently learning React.Js, Angular, and Node.Js.<br><br>👯 I’m looking to collaborate on Open Source and web projects<br><br>📫 How to reach me oluwagbemiga.awosope123@gmail.com
 
 
 ## 🌐 Socials:
