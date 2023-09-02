@@ -1,6 +1,7 @@
-<!--
 <h1 align="center">Hi, I'm Oluwagbemiga Awosope.</h1>
 <h2 align="center">Frontend Developer and Graphics Designer</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
 🔭 I’m currently working on Portfolio projects<br><br>🌱 I’m currently learning React.Js, AngularJs, and Node.Js.<br><br>👯 I’m looking to collaborate on Open Source and web projects<br><br>📫 How to reach me oluwagbemiga.awosope123@gmail.com
 
@@ -15,10 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=JAILBREAK-101&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JAILBREAK-101&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAILBREAK-101&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JAILBREAK-101&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
--->
 
 <!--
 ## 🐦 Latest Tweet
@@ -29,15 +29,14 @@
 
 -->
 
-<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JAILBREAK-101&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
 <!--
 [![](https://visitcount.itsvg.in/api?id=JAILBREAK-101&icon=0&color=1)](https://visitcount.itsvg.in)
 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!--
+OLD PROFILE
 <h1 align="center">Hi 👋, I'm Oluwagbemiga</h1>
 <h3 align="center">A Front-end Developer that just loves what he does.</h3>
 
@@ -75,8 +74,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-<!--  HTML, CSS, JAVASCRIPT, REACT JS, BOOTSTRAP, SASS, BABEL, GIT, PYTHON, ADOBE ILLUSTRATOR.    -->
-<!--  MORE TO COME: NODE.JS, EXPRESS.JS, TYPESCRIPT, REACT NATIVE, MONGO-DB PYTHON, FLUTTER, DART, JAVA, PHP, UI/UX, FIGMA, ILLUSTRATOR, CORELDRAW, XDESIGN, BLOCKCHAIN, DEVOPS.  -->
+<!--  HTML, CSS, JAVASCRIPT, REACT JS, BOOTSTRAP, SASS, BABEL, GIT, PYTHON, ADOBE ILLUSTRATOR.    end comment here
+<!--  MORE TO COME: NODE.JS, EXPRESS.JS, TYPESCRIPT, REACT NATIVE, MONGO-DB PYTHON, FLUTTER, DART, JAVA, PHP, UI/UX, FIGMA, ILLUSTRATOR, CORELDRAW, XDESIGN, BLOCKCHAIN, DEVOPS.  end comment here
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -99,3 +98,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jailbreak-101&show_icons=true&locale=en&layout=compact" alt="jailbreak-101" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jailbreak-101&" alt="jailbreak-101" /></p> 
+-->
