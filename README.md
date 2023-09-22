@@ -76,7 +76,7 @@ OLD PROFILE
 <a href="https://twitter.com/genixtech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genixtech1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oluwagbemiga awosope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwagbemiga awosope" height="30" width="40" /></a>
 <a href="https://instagram.com/k.i.n.g_genix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.i.n.g_genix" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jailbreak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jailbreak" height="30" width="40" /></a>  	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://hashnode.com/@jailbreak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jailbreak" height="30" width="40" /></a>  	<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
