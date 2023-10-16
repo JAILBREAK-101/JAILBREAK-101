@@ -69,7 +69,7 @@ OLD PROFILE
 
 - Check out my [Linkedin Account](www.linkedin.com/in/genix-jailbreak)
 
-- ⚡ TRUE FACT **I'm the GREATEST.**
+- ⚡ TRUE FACT **I'm the GREATEST and BEST.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
