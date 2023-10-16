@@ -61,15 +61,15 @@ OLD PROFILE
 - 🌱 I’m currently learning Angular and Node.Js.
 <!-- - 🌱 I’m currently learning **Node.Js and React Js** -->
 
-- 👯 I’m looking to collaborate on **Open Source, Mobile and Web Dev** projects, as well as **hone** my skills in Web Development
+- 👯 I’m **developing** my skills in Web Development (FullStack)
 
-- 💬 Ask me about **HTML, CSS, Javascript, TypeScript, ReactJs, and Angular**
+- 💬 Ask me about **MERN Stack, MEAN Stack, TypeScript, TailwindCSS, SCSS, Graphics Design**
 
 - 📫 Hit me up at **samuelifeoluwa540@gmail.com**
 
 - Check out my [Linkedin Account](www.linkedin.com/in/genix-jailbreak)
 
-- ⚡ Fun fact **I Laugh a lot.**
+- ⚡ TRUE FACT **I'm the GREATEST.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
