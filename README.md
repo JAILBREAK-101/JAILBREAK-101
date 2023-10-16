@@ -56,14 +56,14 @@ OLD PROFILE
 - <img src="https://user-images.githubusercontent.com/100247352/235330471-7dd9ae6d-6c02-4d39-a90b-edc358f6dd8b.gif" height = 30 alt = "YouTube Gif" /> I'm on YouTube @ [**Genix-Js**](https://www.youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w)
 -->
 
-- 🔭 I’m currently working on my **Portfolio Projects**
+- 🔭 I’m currently working on my **React Project**
 
 - 🌱 I’m currently learning Angular and Node.Js.
 <!-- - 🌱 I’m currently learning **Node.Js and React Js** -->
 
 - 👯 I’m looking to collaborate on **Open Source, Mobile and Web Dev** projects, as well as **hone** my skills in Web Development
 
-- 💬 Ask me about **HTML, CSS, Javascript, TypeScript, ReactJs, and all angular**
+- 💬 Ask me about **HTML, CSS, Javascript, TypeScript, ReactJs, and Angular**
 
 - 📫 Hit me up at **samuelifeoluwa540@gmail.com**
 
