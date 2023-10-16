@@ -63,7 +63,7 @@ OLD PROFILE
 
 - 👯 I’m **developing** my skills in Web Development (FullStack)
 
-- 💬 Ask me about **MERN Stack, MEAN Stack, TypeScript, TailwindCSS, SCSS, Graphics Design**
+- 💬 Ask me about **MERN Stack, MEAN Stack, TypeScript, TailwindCSS, SCSS, Graphics Design...**
 
 - 📫 Hit me up at **samuelifeoluwa540@gmail.com**
 
