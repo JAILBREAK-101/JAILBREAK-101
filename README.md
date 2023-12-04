@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluwagbemiga Awosope</h1>
-<h3 align="center">Junior Frontend Developer | YouTuber</h3>
+<h3 align="center">Frontend Developer | YouTuber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
