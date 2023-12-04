@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Up**
+<!-- - 🔭 I’m currently working on **Chat Up** -->
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Angular, NodeJS**
 
 - 👯 I’m looking to collaborate on **Open Source and Volunteer Projects**
 
