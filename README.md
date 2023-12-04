@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/genixtech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genixtech1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwagbemiga awosope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwagbemiga awosope" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwagbemiga-awosope-58173a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwagbemiga awosope" height="30" width="40" /></a>
 <a href="https://instagram.com/_genix_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_genix_tech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/genix-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="genix-js" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCoUdtpdcWXr-Wk0jLaLN04w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="genix-js" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
