@@ -9,17 +9,17 @@
 
 <!-- - 🔭 I’m currently working on **Chat Up** -->
 
-- 🌱 I’m currently learning **Angular, NodeJS**
+- 🌱 I’m currently learning **Python and Data Science**
 
 - 👯 I’m looking to collaborate on **Open Source and Volunteer Projects**
 
-- 🤝 I’m looking for help with **Internships, Job Postings, Volunteer Opportunities**
+- 🤝 I'm looking for help with **Internships, Jobs, and Volunteer Opportunities**
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular, React, HTML, CSS, Bootstrap CSS, SASS (SCSS), NodeJs, ExpressJs, Figma and UI design, Python, C++, Ruby, Graphics Designing, Adobe Illustrator and Video Editting**
 
 - 📫 How to reach me **samuelifeoluwa540@gmail.com**
 
-- ⚡ Fun fact **I am the GREATEST and the BEST - I am not lesser than that**
+- ⚡ Fun fact **I Am Who I Am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
