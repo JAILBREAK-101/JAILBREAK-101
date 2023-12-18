@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular, React, HTML, CSS, Bootstrap CSS, SASS (SCSS), NodeJs, ExpressJs, Figma and UI design, Python, C++, Ruby, Graphics Designing, Adobe Illustrator and Video Editting**
 
-- 📫 How to reach me **samuelifeoluwa540@gmail.com**
+- 📫 How to reach me **oluwagbemiga.awosope123@gmail.com**
 
 - ⚡ Fun fact **I Am Who I Am**
 
