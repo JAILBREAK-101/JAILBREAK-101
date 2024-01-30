@@ -13,9 +13,11 @@
 
 - Main Frameworks - React and Angular
 
-- Styling Frameworks - Vanilla CSS and SASS (Styled Components, Bootstrap, TailwindCSS and Material UI)
+- Styling Frameworks - Vanilla CSS and SASS (Styled Components, Bootstrap, TailwindCSS and Material UI and so on)
 
-- ⚡ Fun fact **CONTINOUS GROWTH, COMTINOUS PROGRESS MAKES THE PERFECT GAME**
+- ⚡ Fun fact **CONTINOUS GROWTH, CONTINOUS PROGRESS MAKES THE PERFECT GAME**
+
+- Backend Technologies - varies on stack chosen for the project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
