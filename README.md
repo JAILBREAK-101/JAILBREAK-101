@@ -9,15 +9,15 @@
 
 - 📫 How to reach me **oluwagbemiga.awosope123@gmail.com**
 
-- Main Languages - JavaScript and Python
+- Main Languages - JavaScript, Python.
 
-- Main Frameworks - React and Angular
+- Main Frameworks/libraries - React, Angular.
 
 - Styling Frameworks - Vanilla CSS and SASS (Styled Components, Bootstrap, TailwindCSS and Material UI and so on)
 
 - ⚡ Fun fact **CONTINOUS GROWTH, CONTINOUS PROGRESS MAKES THE PERFECT GAME**
 
-- Backend Technologies - varies on stack chosen for the project
+- Backend Technologies - varies on the stack chosen for the project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
