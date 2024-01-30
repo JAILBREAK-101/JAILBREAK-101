@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluwagbemiga Awosope</h1>
-<h3 align="center">Frontend Developer | Graphic Designer | Tech YouTuber</h3>
+<h3 align="center">Frontend Developer | Graphic Designer | Tech Youtuber | Data Scientist | Technical Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
@@ -7,19 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Up**
-
-- 🌱 I’m currently learning **Python and Data Science**
-
-- 👯 I’m looking to collaborate on **Open Source and Volunteer Projects**
-
-- 🤝 I'm looking for help with **Internships, Jobs, and Volunteer Opportunities**
-
-- 💬 Ask me about **JavaScript, TypeScript, Angular, React, HTML, CSS, Bootstrap CSS, SASS (SCSS), NodeJs, ExpressJs, Figma and UI design, Python, C++, Ruby, Graphics Designing, Adobe Illustrator and Video Editting**
-
 - 📫 How to reach me **oluwagbemiga.awosope123@gmail.com**
 
-- ⚡ Fun fact **I Am Who I Am**
+- ⚡ Fun fact **CONTINOUS GROWTH, COMTINOUS PROGRESS MAKES THE PERFECT GAME**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
