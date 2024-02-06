@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oluwagbemiga.awosope123@gmail.com**
 
-- Main Languages - JavaScript, Python.
+- Main Languages - JavaScript, Python (I write TypeScript too).
 
 - Main Frameworks/libraries - React, Angular.
 
