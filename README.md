@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Oluwagbemiga Awosope 👋</h1>
-<h3 align="center">Data Scientist | Frontend Engineer </h3>
+<h3 align="center">Frontend Engineer | Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
