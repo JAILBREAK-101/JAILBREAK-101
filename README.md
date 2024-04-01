@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Oluwagbemiga Awosope 👋</h1>
-<h3 align="center"> Frontend Engineer</h3>
+<h3 align="center"> Frontend Developer</h3>
 <!-- 
 Data Scientist  |
 -->
