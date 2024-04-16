@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Oluwagbemiga Awosope 👋</h1>
-<h3 align="center"> Frontend Developer</h3>
-<!-- 
-Data Scientist  |
--->
+<h3 align="center"> Frontend Developer | Data Scientist</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
 <p align="left"> <a href="https://twitter.com/genixtech1" target="blank"><img src="https://img.shields.io/twitter/follow/genixtech1?logo=twitter&style=for-the-badge" alt="genixtech1" /></a> </p>
@@ -11,12 +9,12 @@ Data Scientist  |
 
 - 💻 **Frontend Development**: JavaScript, TypeScript, React, Angular
   - Styling Tools/Frameworks: Vanilla CSS, SASS(SCSS), Styled Components, Bootstrap, TailwindCSS, Material UI.
-<!--
+
 - 📊 **Data Science**: Python
   - Frameworks/Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
   
 - ⚡ **Fun fact**: Continuous growth and progress are the keys to mastery!
--->
+
 - 🌐 **Connect with me:**
   <p align="left">
     <a href="https://twitter.com/genixtech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genixtech1" height="30" width="40" /></a>
