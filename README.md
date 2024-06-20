@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Oluwagbemiga Awosope 👋</h1>
-<h3 align="center"> Frontend Developer | Data Scientist</h3>
+<h3 align="center"> Fullstack Developer | Aspiring Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
@@ -7,13 +7,15 @@
 
 - 📫 Reach me at **oluwagbemiga.awosope123@gmail.com**
 
-- 💻 **Frontend Development**: JavaScript, TypeScript, React, Angular
-  - Styling Tools/Frameworks: Vanilla CSS, SASS(SCSS), Styled Components, Bootstrap, TailwindCSS, Material UI.
-
+- 💻 **Fullstack Development**: JavaScript, TypeScript, React, Angular, Node.js
+  - Frontend: React, Angular, TypeScript, JavaScript
+  - Backend: Node.js, Express.js, RESTful APIs
+  - Database: Firebase
+  
 - 📊 **Data Science**: Python
   - Frameworks/Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
   
-- ⚡ **Fun fact**: Continuous growth and progress are the keys to mastery!
+- ⚡ **Fun fact**: Patience is virtue because slow is fast.
 
 - 🌐 **Connect with me:**
   <p align="left">
@@ -34,6 +36,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> -->
+<!--   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> -->
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jailbreak-101&show_icons=true&locale=en&layout=compact" alt="jailbreak-101" /></p>
