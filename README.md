@@ -7,7 +7,7 @@
 
 -  Reach me at **oluwagbemiga.awosope123@gmail.com**
 
--  **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React, Angular
+-  **Frontend Development**: HTML, CSS, Tailwind, Sass, JavaScript, TypeScript, React, Angular
 -  **Database**: Firebase
   
 -  **Data Science**: Python
