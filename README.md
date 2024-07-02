@@ -3,7 +3,7 @@
 
 <p> I am a passionate Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and popular frameworks like React and Angular. I am continuously expanding my skillset and exploring new technologies, with a current focus on Data Science using Python libraries like TensorFlow and PyTorch.</p>
 
-<p>  **Contact:** oluwagbemiga.awosope123@gmail.com</p>
+<p><b>Contact:</b> oluwagbemiga.awosope123@gmail.com</p>
 
 <h2 align="left">Skills</h2>
 
