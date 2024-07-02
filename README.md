@@ -8,7 +8,7 @@
 -  Reach me at **oluwagbemiga.awosope123@gmail.com**
 
 -  **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React, Angular
-  - Database: Firebase
+-  **Database**: Firebase
   
 -  **Data Science**: Python
  - Frameworks/Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
