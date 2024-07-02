@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Oluwagbemiga Awosope 👋</h1>
-<h3 align="center"> Fullstack Developer | Aspiring Machine Learning Engineer</h3>
+<h3 align="center"> Frontend Developer | Aspiring Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreak-101&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreak-101" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💻 **Fullstack Development**: JavaScript, TypeScript, React, Angular, Node.js
   - Frontend: React, Angular, TypeScript, JavaScript
-  - Backend: Node.js, Express.js, RESTful APIs
+  <!-- - Backend: Node.js, Express.js, RESTful APIs -->
   - Database: Firebase
   
 - 📊 **Data Science**: Python
