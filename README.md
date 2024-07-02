@@ -13,7 +13,7 @@
 -  **Data Science**: Python
  - Frameworks/Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
   
-- ⚡ **Fun fact**: Patience is virtue because slow is fast.
+- ⚡ **Fun fact**: I learned to code by spending more time debugging than writing code. #worthIt"
 
 -  **Connect with me:**
  <p align="left">
