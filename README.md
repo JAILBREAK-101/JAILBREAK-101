@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **oluwagbemiga.awosope123@gmail.com**
 
-- 💻 **Fullstack Development**: JavaScript, TypeScript, React, Angular, Node.js
+- 💻 **Frontend Development**: JavaScript, TypeScript, React, Angular
   - Frontend: React, Angular, TypeScript, JavaScript
   <!-- - Backend: Node.js, Express.js, RESTful APIs -->
   - Database: Firebase
