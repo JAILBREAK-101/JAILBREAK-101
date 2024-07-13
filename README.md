@@ -1,7 +1,7 @@
 <h1 align="center">Oluwagbemiga Awosope</h1>
 <h3 align="center">Frontend Developer | Machine Learning Enthusiast</h3>
 
-<p> I am a passionate Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and popular frameworks like React and Angular. I am continuously expanding my skillset and exploring new technologies, with a current focus on Data Science using Python libraries like TensorFlow and PyTorch.</p>
+<p> I am a passionate Frontend Developer with a strong foundation in HTML, CSS, JavaScript, React and Angular. I am continuously expanding my skillset and exploring new technologies, with a current focus on Data Science using Python libraries like TensorFlow and PyTorch.</p>
 
 <p><b>Contact:</b> oluwagbemiga.awosope123@gmail.com</p>
 
@@ -39,13 +39,9 @@
 <!--
 <h2 align="left">Additional Information</h2>
 
-* You can include a link to your portfolio website here (if you have one).
-* Consider removing the "Languages and Tools" section and integrate those icons within the "Skills" section for a cleaner look.
-* The "github-readme-stats" and "github-readme-streak-stats" are optional.  They can be informative but some prefer a cleaner and more concise profile.
 
-**Overall, this revised profile maintains a friendly tone while presenting your skills and experience in a professional manner.**
--->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jailbreak-101&show_icons=true&locale=en&layout=compact" alt="jailbreak-101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jailbreak-101&" alt="jailbreak-101" /></p>
+-->
