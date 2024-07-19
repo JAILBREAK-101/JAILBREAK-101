@@ -38,5 +38,3 @@
 <p align="left">
   <a href="https://twitter.com/genixtech1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genixtech1" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/oluwagbemiga-awosope-58173a242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwagbemiga awosope" height="30" width="40" /></a>
-
- <a href="https://wakatime.com/@d3d2cf64-85af-4754-905f-e82ad74b2621"><img src="https://wakatime.com/badge/user/d3d2cf64-85af-4754-905f-e82ad74b2621.svg" alt="Total time coded since Nov 28 2022" /></a>
