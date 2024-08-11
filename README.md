@@ -1,7 +1,7 @@
 <h1 align="center">Oluwagbemiga Awosope</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p>I am a passionate Frontend Developer with 2 years of experience in crafting engaging and user-centric web applications. Proficient in HTML, CSS, JavaScript, React, and Angular, I am dedicated to creating exceptional digital experiences.</p>
+<p>I am a passionate Frontend Developer with 2 years of experience crafting engaging and user-centric web applications. I am proficient in HTML, CSS, JavaScript, React, and Angular and am dedicated to creating exceptional digital experiences.</p>
 
 <p><b>Contact:</b> oluwagbemiga.awosope123@gmail.com</p>
 
