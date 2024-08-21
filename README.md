@@ -11,17 +11,17 @@
 
 **Frontend Development:**
 
-* HTML
-* CSS (Preprocessing with Sass & Tailwind CSS)
-* JavaScript (with TypeScript for robust typing)
-* React & Angular (for building dynamic and scalable web applications)
-* Firebase (for seamless backend integration and user management)
-* Python (for scripting and automation tasks)
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" alt="HTML" width="20" height="20"> HTML
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" alt="CSS" width="20" height="20"> CSS (Preprocessing with Sass & Tailwind CSS)
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="20" height="20"> JavaScript (with TypeScript for robust typing)
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" alt="React" width="20" height="20"> React & Angular (for building dynamic and scalable web applications)
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg" alt="Firebase" width="20" height="20"> Firebase (for seamless backend integration and user management)
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="Python" width="20" height="20"> Python (for scripting and automation tasks)
 
 **Beyond the Code:**
 
-* Graphic Designing
-* Playing the Piano
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" alt="Graphic Design" width="20" height="20"> Graphic Design
+*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/piano.svg" alt="Piano" width="20" height="20"> Playing the Piano
 
 ## Projects
 
