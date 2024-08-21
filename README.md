@@ -20,8 +20,8 @@
 
 **Beyond the Code:**
 
-*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" alt="Graphic Design" width="20" height="20"> Graphic Design
-*  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/piano.svg" alt="Piano" width="20" height="20"> Playing the Piano
+* Graphic Design
+* Playing the Piano
 
 ## Projects
 
