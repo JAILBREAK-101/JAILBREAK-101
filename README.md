@@ -1,7 +1,9 @@
 <h1 align="center">Oluwagbemiga Awosope</h1>
 <h3 align="center">Software Engineer (Frontend)</h3>
 
-<p>I am a passionate Frontend Developer with 2 years of experience crafting engaging and user-centric web applications. I am proficient in HTML, CSS, JavaScript, React, and Angular and am dedicated to creating exceptional digital experiences.</p>
+<p>I am a passionate Software Engineer with 2 years of experience specializing in crafting engaging and user-centric web applications.</p>
+
+<p>I'm working on my portfolio website and side projects.</p>
 
 <p><b>Contact:</b> oluwagbemiga.awosope123@gmail.com</p>
 
@@ -18,6 +20,7 @@
 * React
 * Angular
 * Firebase
+* Python
 
 <!--
 ## Projects
