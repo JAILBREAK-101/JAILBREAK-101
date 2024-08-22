@@ -3,7 +3,7 @@
 
 <p>I'm a passionate Frontend Software Engineer with 2 years of experience building engaging and user-centric web applications. I leverage various technologies to create intuitive and responsive interfaces that delight users.</p>
 
-<p> <b>I'm working on my portfolio website and personal projects.<b> </p>
+<p> <b>I'm currently building my portfolio.<b> </p>
 
 <p><b>Contact:</b> oluwagbemiga.awosope123@gmail.com</p>
 
