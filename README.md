@@ -36,8 +36,7 @@ I am interested in leveraging my skills to solve complex problems and contribute
 
 - [LinkedIn](https://www.linkedin.com/in/oluwagbemiga-awosope-58173a242/)
 - [Twitter](https://twitter.com/genixtech1)
-- [YouTube](https://www.youtube.com/channel/UCYourChannelID)
-- [Wakatime](https://wakatime.com/@d3d2cf64-85af-4754-905f-e82ad74b2621)
+- [YouTube](https://www.youtube.com/@Genix-JS)
 
 ---
 
